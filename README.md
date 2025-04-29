@@ -17,7 +17,7 @@ This project presents a sales analysis dashboard for a fictional coffee shop usi
 ## 📁 Files Included:
 - `Coffee_Shop_Sales.xlsx`: Main dashboard
 - `Coffee Shop Sales Raw Data.xlsx`: Original dataset
-- `Dashboard_Image.png`: Preview of the dashboard
+- `dashboard screenshot.png`: Preview of the dashboard
 
 ## 🔍 Insights Learned:
 - How to clean data using Power Query
@@ -27,4 +27,9 @@ This project presents a sales analysis dashboard for a fictional coffee shop usi
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/1dd7b4b0-ef39-45a6-b6eb-97c4a50dcb7b)
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
