@@ -26,4 +26,4 @@ This project presents a sales analysis dashboard for a fictional coffee shop usi
 
 ## 📸 Preview
 
-![Dashboard Screenshot]([Dashboard_Image.png](https://github.com/adityaswain26/Coffee-Shop-Sales/blob/main/Dashboard-Image.png?raw=true))
+![Dashboard Screenshot](Dashboard-Image.png)
